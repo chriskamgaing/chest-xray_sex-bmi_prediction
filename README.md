@@ -71,9 +71,7 @@ A single GPU (Google Colab T4 or equivalent) is sufficient. Full Section 6 retra
 
 ## Video walkthrough
 
-A 10-minute video presentation walking through the methodology, key experiments, final results, and critical reflection is available here: **[OneDrive link — [PLACEHOLDER: paste your OneDrive share URL here]]**
-
-*(Ensure the OneDrive share setting is "Anyone with the link can view" before publishing.)*
+A 10-minute video presentation walking through the methodology, key experiments, final results, and critical reflection is available here: **[OneDrive link — https://1drv.ms/v/c/11bee908832e06eb/IQBOx_SCb2yCRYJqUlbRfoIwASmoKuaAP23kZbNoKL6aDZE?e=5oA1cl]**
 
 ---
 
